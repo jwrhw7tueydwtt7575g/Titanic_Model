@@ -16,4 +16,4 @@ plugins/
 MLOPS_PROJECT_3.egg-info/
 include/
 .astro/
-.dags/
+dags/extract_data_from_gcp.py
